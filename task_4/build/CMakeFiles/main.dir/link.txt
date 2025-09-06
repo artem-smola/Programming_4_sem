@@ -1,1 +1,0 @@
-/usr/bin/c++  -g -O1 -fno-omit-frame-pointer -fno-inline CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/src/log.cpp.o CMakeFiles/main.dir/src/logger.cpp.o -o main 
