@@ -1,0 +1,1620 @@
+Thread 0 performed at 16:56:16.777281032;
+(queue size = 10)
+Thread 1 performed at 16:56:16.779448588;
+(queue size = 9)
+Thread 2 performed at 16:56:16.781803847;
+(queue size = 8)
+Thread 3 performed at 16:56:16.783677597;
+(queue size = 7)
+Thread 4 performed at 16:56:16.785313456;
+(queue size = 6)
+Thread 5 performed at 16:56:16.787359972;
+(queue size = 5)
+Thread 6 performed at 16:56:16.789353576;
+(queue size = 4)
+Thread 7 performed at 16:56:16.791141188;
+(queue size = 3)
+Thread 8 performed at 16:56:16.793097726;
+(queue size = 2)
+Thread 9 performed at 16:56:16.795137681;
+(queue size = 1)
+Thread 33 performed at 16:56:16.842593908;
+(queue size = 3)
+Thread 90 performed at 16:56:16.988450908;
+(queue size = 2)
+Thread 63 performed at 16:56:16.917828455;
+(queue size = 1)
+Thread 49 performed at 16:56:16.885844021;
+(queue size = 1)
+Thread 35 performed at 16:56:16.855306555;
+(queue size = 2)
+Thread 22 performed at 16:56:16.820304072;
+(queue size = 1)
+Thread 20 performed at 16:56:16.815761502;
+(queue size = 1)
+Thread 34 performed at 16:56:16.844478059;
+(queue size = 1)
+Thread 74 performed at 16:56:16.945201283;
+(queue size = 4)
+Thread 64 performed at 16:56:16.920163960;
+(queue size = 3)
+Thread 67 performed at 16:56:16.927838568;
+(queue size = 2)
+Thread 51 performed at 16:56:16.889531700;
+(queue size = 1)
+Thread 62 performed at 16:56:16.915738172;
+(queue size = 7)
+Thread 16 performed at 16:56:16.808188319;
+(queue size = 6)
+Thread 75 performed at 16:56:16.947549911;
+(queue size = 5)
+Thread 96 performed at 16:56:17.006133906;
+(queue size = 4)
+Thread 28 performed at 16:56:16.833566566;
+(queue size = 3)
+Thread 79 performed at 16:56:16.957177637;
+(queue size = 2)
+Thread 42 performed at 16:56:16.870004500;
+(queue size = 1)
+Thread 9 performed at 16:56:16.896551616;
+(queue size = 1)
+Thread 45 performed at 16:56:16.876545909;
+(queue size = 1)
+Thread 11 performed at 16:56:16.799087544;
+(queue size = 2)
+Thread 1 performed at 16:56:16.874854975;
+(queue size = 1)
+Thread 25 performed at 16:56:16.827290203;
+(queue size = 2)
+Thread 78 performed at 16:56:16.954859793;
+(queue size = 1)
+Thread 30 performed at 16:56:16.836914020;
+(queue size = 1)
+Thread 57 performed at 16:56:16.904164518;
+(queue size = 2)
+Thread 87 performed at 16:56:16.979761488;
+(queue size = 1)
+Thread 5 performed at 16:56:16.826182343;
+(queue size = 4)
+Thread 54 performed at 16:56:16.897688026;
+(queue size = 3)
+Thread 3 performed at 16:56:16.852122652;
+(queue size = 2)
+Thread 77 performed at 16:56:16.952683651;
+(queue size = 1)
+Thread 74 performed at 16:56:17.038216122;
+(queue size = 2)
+Thread 64 performed at 16:56:17.038775534;
+(queue size = 1)
+Thread 32 performed at 16:56:16.840856345;
+(queue size = 7)
+Thread 8 performed at 16:56:16.853724376;
+(queue size = 6)
+Thread 69 performed at 16:56:16.933283006;
+(queue size = 5)
+Thread 99 performed at 16:56:17.013459593;
+(queue size = 4)
+Thread 95 performed at 16:56:17.003732217;
+(queue size = 3)
+Thread 0 performed at 16:56:16.852746002;
+(queue size = 2)
+Thread 38 performed at 16:56:16.861779975;
+(queue size = 1)
+Thread 65 performed at 16:56:16.922410115;
+(queue size = 10)
+Thread 1 performed at 16:56:17.055107517;
+(queue size = 9)
+Thread 62 performed at 16:56:17.055991031;
+(queue size = 8)
+Thread 6 performed at 16:56:16.854253980;
+(queue size = 7)
+Thread 17 performed at 16:56:16.809952757;
+(queue size = 6)
+Thread 7 performed at 16:56:16.884314265;
+(queue size = 5)
+Thread 48 performed at 16:56:16.883346641;
+(queue size = 4)
+Thread 2 performed at 16:56:16.817329023;
+(queue size = 3)
+Thread 80 performed at 16:56:16.960705884;
+(queue size = 2)
+Thread 35 performed at 16:56:17.058808893;
+(queue size = 1)
+Thread 44 performed at 16:56:16.873853845;
+(queue size = 10)
+Thread 20 performed at 16:56:17.063087341;
+(queue size = 9)
+Thread 84 performed at 16:56:16.972465357;
+(queue size = 8)
+Thread 61 performed at 16:56:16.913113958;
+(queue size = 7)
+Thread 67 performed at 16:56:17.064766205;
+(queue size = 6)
+Thread 87 performed at 16:56:17.066106797;
+(queue size = 5)
+Thread 24 performed at 16:56:16.824248770;
+(queue size = 4)
+Thread 56 performed at 16:56:16.901839274;
+(queue size = 3)
+Thread 53 performed at 16:56:16.894692315;
+(queue size = 2)
+Thread 50 performed at 16:56:16.887687127;
+(queue size = 1)
+Thread 37 performed at 16:56:16.860076895;
+(queue size = 10)
+Thread 82 performed at 16:56:16.966375301;
+(queue size = 9)
+Thread 88 performed at 16:56:16.983513107;
+(queue size = 8)
+Thread 4 performed at 16:56:16.863239857;
+(queue size = 7)
+Thread 94 performed at 16:56:17.000482965;
+(queue size = 6)
+Thread 14 performed at 16:56:16.804205508;
+(queue size = 5)
+Thread 70 performed at 16:56:16.935551289;
+(queue size = 4)
+Thread 23 performed at 16:56:16.822502761;
+(queue size = 3)
+Thread 8 performed at 16:56:17.073960764;
+(queue size = 2)
+Thread 3 performed at 16:56:17.074957988;
+(queue size = 1)
+Thread 85 performed at 16:56:16.974935653;
+(queue size = 10)
+Thread 9 performed at 16:56:17.083418345;
+(queue size = 9)
+Thread 43 performed at 16:56:16.871715258;
+(queue size = 8)
+Thread 30 performed at 16:56:17.085395134;
+(queue size = 7)
+Thread 5 performed at 16:56:17.086613150;
+(queue size = 6)
+Thread 22 performed at 16:56:17.087420717;
+(queue size = 5)
+Thread 92 performed at 16:56:16.995080689;
+(queue size = 4)
+Thread 27 performed at 16:56:16.831048733;
+(queue size = 3)
+Thread 56 performed at 16:56:17.088993688;
+(queue size = 2)
+Thread 74 performed at 16:56:17.089901772;
+(queue size = 1)
+Thread 79 performed at 16:56:17.094592485;
+(queue size = 10)
+Thread 29 performed at 16:56:16.835319486;
+(queue size = 9)
+Thread 63 performed at 16:56:17.096062983;
+(queue size = 8)
+Thread 68 performed at 16:56:16.931086482;
+(queue size = 7)
+Thread 93 performed at 16:56:16.997491861;
+(queue size = 6)
+Thread 28 performed at 16:56:17.097961242;
+(queue size = 5)
+Thread 84 performed at 16:56:17.099165996;
+(queue size = 4)
+Thread 13 performed at 16:56:16.802262512;
+(queue size = 3)
+Thread 64 performed at 16:56:17.100553427;
+(queue size = 2)
+Thread 58 performed at 16:56:16.906049158;
+(queue size = 1)
+Thread 98 performed at 16:56:17.011104185;
+(queue size = 10)
+Thread 33 performed at 16:56:17.108813305;
+(queue size = 9)
+Thread 31 performed at 16:56:16.838715454;
+(queue size = 8)
+Thread 19 performed at 16:56:16.814094721;
+(queue size = 7)
+Thread 16 performed at 16:56:17.110109083;
+(queue size = 6)
+Thread 56 performed at 16:56:17.110820110;
+(queue size = 5)
+Thread 72 performed at 16:56:16.940310252;
+(queue size = 4)
+Thread 89 performed at 16:56:16.986174248;
+(queue size = 3)
+Thread 70 performed at 16:56:17.112391755;
+(queue size = 2)
+Thread 26 performed at 16:56:16.829105039;
+(queue size = 1)
+Thread 14 performed at 16:56:17.121763407;
+(queue size = 10)
+Thread 61 performed at 16:56:17.122692573;
+(queue size = 9)
+Thread 99 performed at 16:56:17.123559473;
+(queue size = 8)
+Thread 53 performed at 16:56:17.124697074;
+(queue size = 7)
+Thread 82 performed at 16:56:17.125740231;
+(queue size = 6)
+Thread 67 performed at 16:56:17.077123319;
+(queue size = 5)
+Thread 0 performed at 16:56:17.127008436;
+(queue size = 4)
+Thread 49 performed at 16:56:17.127710528;
+(queue size = 3)
+Thread 54 performed at 16:56:17.069715542;
+(queue size = 2)
+Thread 32 performed at 16:56:17.078028542;
+(queue size = 1)
+Thread 29 performed at 16:56:17.147536009;
+(queue size = 10)
+Thread 42 performed at 16:56:17.106564977;
+(queue size = 9)
+Thread 73 performed at 16:56:16.942216112;
+(queue size = 8)
+Thread 24 performed at 16:56:17.105472888;
+(queue size = 7)
+Thread 56 performed at 16:56:17.149693731;
+(queue size = 6)
+Thread 45 performed at 16:56:17.079727859;
+(queue size = 5)
+Thread 28 performed at 16:56:17.151042770;
+(queue size = 4)
+Thread 66 performed at 16:56:16.924404766;
+(queue size = 3)
+Thread 72 performed at 16:56:17.152457564;
+(queue size = 2)
+Thread 17 performed at 16:56:17.153995005;
+(queue size = 1)
+Thread 90 performed at 16:56:17.078849930;
+(queue size = 10)
+Thread 43 performed at 16:56:17.162017549;
+(queue size = 9)
+Thread 33 performed at 16:56:17.162904483;
+(queue size = 8)
+Thread 92 performed at 16:56:17.164065050;
+(queue size = 7)
+Thread 5 performed at 16:56:17.164890137;
+(queue size = 6)
+Thread 40 performed at 16:56:16.866373781;
+(queue size = 5)
+Thread 65 performed at 16:56:17.166435745;
+(queue size = 10)
+Thread 60 performed at 16:56:16.911390705;
+(queue size = 9)
+Thread 32 performed at 16:56:17.167445535;
+(queue size = 8)
+Thread 57 performed at 16:56:17.080399028;
+(queue size = 7)
+Thread 68 performed at 16:56:17.175600567;
+(queue size = 6)
+Thread 99 performed at 16:56:17.177158739;
+(queue size = 5)
+Thread 63 performed at 16:56:17.178776385;
+(queue size = 4)
+Thread 27 performed at 16:56:17.180182803;
+(queue size = 3)
+Thread 88 performed at 16:56:17.137481112;
+(queue size = 2)
+Thread 3 performed at 16:56:17.181562835;
+(queue size = 1)
+Thread 12 performed at 16:56:16.800642988;
+(queue size = 10)
+Thread 96 performed at 16:56:17.115008999;
+(queue size = 9)
+Thread 16 performed at 16:56:17.193406678;
+(queue size = 8)
+Thread 4 performed at 16:56:17.117232966;
+(queue size = 7)
+Thread 1 performed at 16:56:17.081014074;
+(queue size = 6)
+Thread 2 performed at 16:56:17.131157467;
+(queue size = 5)
+Thread 58 performed at 16:56:17.195248815;
+(queue size = 4)
+Thread 50 performed at 16:56:17.113610330;
+(queue size = 3)
+Thread 43 performed at 16:56:17.196457198;
+(queue size = 2)
+Thread 29 performed at 16:56:17.197224487;
+(queue size = 1)
+Thread 70 performed at 16:56:17.206220243;
+(queue size = 10)
+Thread 64 performed at 16:56:17.207243295;
+(queue size = 9)
+Thread 24 performed at 16:56:17.208035644;
+(queue size = 8)
+Thread 71 performed at 16:56:16.937718427;
+(queue size = 7)
+Thread 76 performed at 16:56:16.949584490;
+(queue size = 6)
+Thread 84 performed at 16:56:17.183408671;
+(queue size = 5)
+Thread 33 performed at 16:56:17.209938650;
+(queue size = 4)
+Thread 35 performed at 16:56:17.119432780;
+(queue size = 3)
+Thread 21 performed at 16:56:16.818516878;
+(queue size = 2)
+Thread 75 performed at 16:56:17.060672180;
+(queue size = 1)
+Thread 54 performed at 16:56:17.186295500;
+(queue size = 10)
+Thread 89 performed at 16:56:17.214295000;
+(queue size = 9)
+Thread 78 performed at 16:56:17.131931806;
+(queue size = 8)
+Thread 30 performed at 16:56:17.173560256;
+(queue size = 7)
+Thread 29 performed at 16:56:17.216011489;
+(queue size = 6)
+Thread 53 performed at 16:56:17.141784131;
+(queue size = 5)
+Thread 87 performed at 16:56:17.190308552;
+(queue size = 4)
+Thread 92 performed at 16:56:17.217346846;
+(queue size = 3)
+Thread 41 performed at 16:56:16.868230499;
+(queue size = 2)
+Thread 25 performed at 16:56:17.136544477;
+(queue size = 1)
+Thread 32 performed at 16:56:17.222021364;
+(queue size = 10)
+Thread 48 performed at 16:56:17.141019634;
+(queue size = 9)
+Thread 27 performed at 16:56:17.223442092;
+(queue size = 8)
+Thread 64 performed at 16:56:17.224636095;
+(queue size = 7)
+Thread 15 performed at 16:56:16.805829710;
+(queue size = 6)
+Thread 28 performed at 16:56:17.226206762;
+(queue size = 5)
+Thread 16 performed at 16:56:17.227347296;
+(queue size = 4)
+Thread 61 performed at 16:56:17.171416425;
+(queue size = 3)
+Thread 65 performed at 16:56:17.229236899;
+(queue size = 2)
+Thread 46 performed at 16:56:16.879270571;
+(queue size = 1)
+Thread 42 performed at 16:56:17.200750374;
+(queue size = 10)
+Thread 79 performed at 16:56:17.135913306;
+(queue size = 9)
+Thread 8 performed at 16:56:17.170443980;
+(queue size = 8)
+Thread 80 performed at 16:56:17.092461219;
+(queue size = 7)
+Thread 6 performed at 16:56:17.157340658;
+(queue size = 6)
+Thread 94 performed at 16:56:17.140094168;
+(queue size = 5)
+Thread 33 performed at 16:56:17.234125716;
+(queue size = 4)
+Thread 98 performed at 16:56:17.145123780;
+(queue size = 3)
+Thread 26 performed at 16:56:17.172073493;
+(queue size = 2)
+Thread 68 performed at 16:56:17.235541348;
+(queue size = 1)
+Thread 82 performed at 16:56:17.219099633;
+(queue size = 10)
+Thread 36 performed at 16:56:16.857243478;
+(queue size = 10)
+Thread 23 performed at 16:56:17.116135572;
+(queue size = 9)
+Thread 97 performed at 16:56:17.008548717;
+(queue size = 8)
+Thread 29 performed at 16:56:17.241664865;
+(queue size = 7)
+Thread 96 performed at 16:56:17.242660763;
+(queue size = 6)
+Thread 57 performed at 16:56:17.243952074;
+(queue size = 5)
+Thread 56 performed at 16:56:17.199579825;
+(queue size = 4)
+Thread 28 performed at 16:56:17.245586333;
+(queue size = 3)
+Thread 13 performed at 16:56:17.143066856;
+(queue size = 2)
+Thread 47 performed at 16:56:16.881027330;
+(queue size = 1)
+Thread 17 performed at 16:56:17.237743815;
+(queue size = 10)
+Thread 39 performed at 16:56:16.864399792;
+(queue size = 9)
+Thread 22 performed at 16:56:17.169538688;
+(queue size = 8)
+Thread 55 performed at 16:56:16.899825148;
+(queue size = 7)
+Thread 20 performed at 16:56:17.129234985;
+(queue size = 6)
+Thread 75 performed at 16:56:17.280419190;
+(queue size = 5)
+Thread 31 performed at 16:56:17.138591001;
+(queue size = 4)
+Thread 49 performed at 16:56:17.201894956;
+(queue size = 3)
+Thread 69 performed at 16:56:17.135075864;
+(queue size = 2)
+Thread 67 performed at 16:56:17.220035849;
+(queue size = 1)
+Thread 6 performed at 16:56:17.287840649;
+(queue size = 10)
+Thread 66 performed at 16:56:17.247473075;
+(queue size = 9)
+Thread 52 performed at 16:56:16.892547585;
+(queue size = 8)
+Thread 3 performed at 16:56:17.290091490;
+(queue size = 7)
+Thread 78 performed at 16:56:17.291485064;
+(queue size = 6)
+Thread 43 performed at 16:56:17.293723061;
+(queue size = 5)
+Thread 24 performed at 16:56:17.295110213;
+(queue size = 4)
+Thread 73 performed at 16:56:17.238749556;
+(queue size = 3)
+Thread 34 performed at 16:56:17.134081431;
+(queue size = 2)
+Thread 84 performed at 16:56:17.296824119;
+(queue size = 1)
+Thread 26 performed at 16:56:17.262668434;
+(queue size = 10)
+Thread 51 performed at 16:56:17.102183917;
+(queue size = 9)
+Thread 54 performed at 16:56:17.301434835;
+(queue size = 8)
+Thread 86 performed at 16:56:16.976959692;
+(queue size = 7)
+Thread 96 performed at 16:56:17.302637843;
+(queue size = 6)
+Thread 30 performed at 16:56:17.303540065;
+(queue size = 5)
+Thread 42 performed at 16:56:17.267918209;
+(queue size = 4)
+Thread 92 performed at 16:56:17.250211011;
+(queue size = 3)
+Thread 36 performed at 16:56:17.304893152;
+(queue size = 2)
+Thread 59 performed at 16:56:16.909140571;
+(queue size = 1)
+Thread 19 performed at 16:56:17.168611477;
+(queue size = 10)
+Thread 33 performed at 16:56:17.317350156;
+(queue size = 9)
+Thread 10 performed at 16:56:16.797128213;
+(queue size = 8)
+Thread 73 performed at 16:56:17.319084655;
+(queue size = 7)
+Thread 74 performed at 16:56:17.172718415;
+(queue size = 6)
+Thread 65 performed at 16:56:17.320499240;
+(queue size = 5)
+Thread 11 performed at 16:56:17.091159018;
+(queue size = 4)
+Thread 28 performed at 16:56:17.321781685;
+(queue size = 3)
+Thread 64 performed at 16:56:17.322697378;
+(queue size = 2)
+Thread 14 performed at 16:56:17.212057771;
+(queue size = 1)
+Thread 46 performed at 16:56:17.329478591;
+(queue size = 10)
+Thread 87 performed at 16:56:17.263929310;
+(queue size = 9)
+Thread 49 performed at 16:56:17.330981549;
+(queue size = 8)
+Thread 8 performed at 16:56:17.332070566;
+(queue size = 7)
+Thread 15 performed at 16:56:17.333031423;
+(queue size = 6)
+Thread 16 performed at 16:56:17.333690865;
+(queue size = 5)
+Thread 98 performed at 16:56:17.334569492;
+(queue size = 4)
+Thread 24 performed at 16:56:17.335706535;
+(queue size = 3)
+Thread 94 performed at 16:56:17.336455256;
+(queue size = 2)
+Thread 41 performed at 16:56:17.248743165;
+(queue size = 1)
+Thread 79 performed at 16:56:17.275522415;
+(queue size = 10)
+Thread 77 performed at 16:56:17.068268289;
+(queue size = 9)
+Thread 6 performed at 16:56:17.344332886;
+(queue size = 8)
+Thread 0 performed at 16:56:17.158414179;
+(queue size = 7)
+Thread 26 performed at 16:56:17.345546155;
+(queue size = 6)
+Thread 22 performed at 16:56:17.346350371;
+(queue size = 5)
+Thread 82 performed at 16:56:17.347321071;
+(queue size = 4)
+Thread 59 performed at 16:56:17.348193485;
+(queue size = 3)
+Thread 28 performed at 16:56:17.349330040;
+(queue size = 2)
+Thread 32 performed at 16:56:17.325272461;
+(queue size = 1)
+Thread 81 performed at 16:56:16.963326259;
+(queue size = 10)
+Thread 1 performed at 16:56:17.271690506;
+(queue size = 9)
+Thread 96 performed at 16:56:17.358724029;
+(queue size = 8)
+Thread 53 performed at 16:56:17.270547599;
+(queue size = 7)
+Thread 54 performed at 16:56:17.360243111;
+(queue size = 6)
+Thread 89 performed at 16:56:17.264898962;
+(queue size = 5)
+Thread 99 performed at 16:56:17.285614658;
+(queue size = 10)
+Thread 37 performed at 16:56:17.103060171;
+(queue size = 9)
+Thread 52 performed at 16:56:17.362133413;
+(queue size = 8)
+Thread 20 performed at 16:56:17.308167325;
+(queue size = 7)
+Thread 74 performed at 16:56:17.367196601;
+(queue size = 6)
+Thread 55 performed at 16:56:17.368408893;
+(queue size = 5)
+Thread 47 performed at 16:56:17.323712892;
+(queue size = 4)
+Thread 44 performed at 16:56:17.155591012;
+(queue size = 3)
+Thread 68 performed at 16:56:17.314940231;
+(queue size = 2)
+Thread 18 performed at 16:56:16.811819597;
+(queue size = 1)
+Thread 60 performed at 16:56:17.198307920;
+(queue size = 10)
+Thread 97 performed at 16:56:17.284590907;
+(queue size = 9)
+Thread 82 performed at 16:56:17.377415888;
+(queue size = 8)
+Thread 17 performed at 16:56:17.378357758;
+(queue size = 7)
+Thread 10 performed at 16:56:17.379342278;
+(queue size = 6)
+Thread 92 performed at 16:56:17.380189842;
+(queue size = 5)
+Thread 5 performed at 16:56:17.274513743;
+(queue size = 4)
+Thread 52 performed at 16:56:17.381919245;
+(queue size = 3)
+Thread 12 performed at 16:56:17.297868252;
+(queue size = 2)
+Thread 45 performed at 16:56:17.249399815;
+(queue size = 1)
+Thread 29 performed at 16:56:17.326815276;
+(queue size = 10)
+Thread 26 performed at 16:56:17.386083074;
+(queue size = 9)
+Thread 69 performed at 16:56:17.306904355;
+(queue size = 8)
+Thread 83 performed at 16:56:16.969998760;
+(queue size = 7)
+Thread 0 performed at 16:56:17.387398747;
+(queue size = 6)
+Thread 78 performed at 16:56:17.338515252;
+(queue size = 5)
+Thread 87 performed at 16:56:17.388777382;
+(queue size = 4)
+Thread 39 performed at 16:56:17.313896796;
+(queue size = 3)
+Thread 19 performed at 16:56:17.390040213;
+(queue size = 2)
+Thread 72 performed at 16:56:17.203762851;
+(queue size = 1)
+Thread 51 performed at 16:56:17.393532454;
+(queue size = 10)
+Thread 76 performed at 16:56:17.268937911;
+(queue size = 9)
+Thread 50 performed at 16:56:17.312348465;
+(queue size = 8)
+Thread 11 performed at 16:56:17.395477134;
+(queue size = 7)
+Thread 47 performed at 16:56:17.396618295;
+(queue size = 6)
+Thread 95 performed at 16:56:17.114293714;
+(queue size = 5)
+Thread 40 performed at 16:56:17.236724532;
+(queue size = 4)
+Thread 55 performed at 16:56:17.397992743;
+(queue size = 3)
+Thread 33 performed at 16:56:17.398725828;
+(queue size = 2)
+Thread 80 performed at 16:56:17.324388458;
+(queue size = 1)
+Thread 85 performed at 16:56:17.188210373;
+(queue size = 10)
+Thread 7 performed at 16:56:17.133050211;
+(queue size = 9)
+Thread 64 performed at 16:56:17.406822783;
+(queue size = 8)
+Thread 21 performed at 16:56:17.282407916;
+(queue size = 7)
+Thread 18 performed at 16:56:17.408041567;
+(queue size = 6)
+Thread 92 performed at 16:56:17.408907490;
+(queue size = 5)
+Thread 45 performed at 16:56:17.409683086;
+(queue size = 4)
+Thread 84 performed at 16:56:17.374692122;
+(queue size = 3)
+Thread 54 performed at 16:56:17.410805260;
+(queue size = 2)
+Thread 2 performed at 16:56:17.276678794;
+(queue size = 1)
+Thread 37 performed at 16:56:17.419181154;
+(queue size = 10)
+Thread 86 performed at 16:56:17.372258882;
+(queue size = 9)
+Thread 82 performed at 16:56:17.420797194;
+(queue size = 8)
+Thread 74 performed at 16:56:17.421693342;
+(queue size = 7)
+Thread 13 performed at 16:56:17.340042920;
+(queue size = 6)
+Thread 41 performed at 16:56:17.423095991;
+(queue size = 5)
+Thread 19 performed at 16:56:17.424024109;
+(queue size = 4)
+Thread 81 performed at 16:56:17.424895407;
+(queue size = 3)
+Thread 56 performed at 16:56:17.272277979;
+(queue size = 2)
+Thread 40 performed at 16:56:17.426052554;
+(queue size = 1)
+Thread 31 performed at 16:56:17.383871114;
+(queue size = 10)
+Thread 4 performed at 16:56:17.283335127;
+(queue size = 9)
+Thread 11 performed at 16:56:17.433498723;
+(queue size = 8)
+Thread 3 performed at 16:56:17.374076448;
+(queue size = 7)
+Thread 24 performed at 16:56:17.434711085;
+(queue size = 6)
+Thread 98 performed at 16:56:17.435487379;
+(queue size = 5)
+Thread 94 performed at 16:56:17.400836223;
+(queue size = 4)
+Thread 32 performed at 16:56:17.402103590;
+(queue size = 3)
+Thread 23 performed at 16:56:17.309307998;
+(queue size = 2)
+Thread 63 performed at 16:56:17.261190466;
+(queue size = 1)
+Thread 93 performed at 16:56:17.144116922;
+(queue size = 10)
+Thread 35 performed at 16:56:17.364938989;
+(queue size = 9)
+Thread 71 performed at 16:56:17.266223011;
+(queue size = 8)
+Thread 42 performed at 16:56:17.355259081;
+(queue size = 7)
+Thread 44 performed at 16:56:17.413532516;
+(queue size = 6)
+Thread 85 performed at 16:56:17.453895832;
+(queue size = 5)
+Thread 95 performed at 16:56:17.454853198;
+(queue size = 4)
+Thread 76 performed at 16:56:17.427088031;
+(queue size = 3)
+Thread 8 performed at 16:56:17.370604100;
+(queue size = 2)
+Thread 57 performed at 16:56:17.340839667;
+(queue size = 1)
+Thread 66 performed at 16:56:17.352451411;
+(queue size = 10)
+Thread 27 performed at 16:56:17.356068113;
+(queue size = 9)
+Thread 80 performed at 16:56:17.462815082;
+(queue size = 8)
+Thread 89 performed at 16:56:17.463844766;
+(queue size = 7)
+Thread 25 performed at 16:56:17.283956525;
+(queue size = 6)
+Thread 33 performed at 16:56:17.465071437;
+(queue size = 5)
+Thread 72 performed at 16:56:17.465987550;
+(queue size = 4)
+Thread 53 performed at 16:56:17.414737409;
+(queue size = 3)
+Thread 20 performed at 16:56:17.467161030;
+(queue size = 2)
+Thread 69 performed at 16:56:17.467959871;
+(queue size = 1)
+Thread 9 performed at 16:56:17.118177209;
+(queue size = 10)
+Thread 98 performed at 16:56:17.475173732;
+(queue size = 9)
+Thread 49 performed at 16:56:17.364159484;
+(queue size = 8)
+Thread 0 performed at 16:56:17.476680807;
+(queue size = 7)
+Thread 52 performed at 16:56:17.429120106;
+(queue size = 6)
+Thread 68 performed at 16:56:17.478117171;
+(queue size = 5)
+Thread 60 performed at 16:56:17.479061205;
+(queue size = 4)
+Thread 30 performed at 16:56:17.417411962;
+(queue size = 3)
+Thread 50 performed at 16:56:17.438447013;
+(queue size = 2)
+Thread 10 performed at 16:56:17.430856768;
+(queue size = 1)
+Thread 92 performed at 16:56:17.439911089;
+(queue size = 10)
+Thread 43 performed at 16:56:17.325909007;
+(queue size = 9)
+Thread 22 performed at 16:56:17.403383802;
+(queue size = 8)
+Thread 86 performed at 16:56:17.488670123;
+(queue size = 7)
+Thread 63 performed at 16:56:17.489605082;
+(queue size = 6)
+Thread 2 performed at 16:56:17.490391567;
+(queue size = 5)
+Thread 62 performed at 16:56:17.130500259;
+(queue size = 4)
+Thread 41 performed at 16:56:17.491699701;
+(queue size = 3)
+Thread 67 performed at 16:56:17.371490965;
+(queue size = 2)
+Thread 83 performed at 16:56:17.492795140;
+(queue size = 1)
+Thread 79 performed at 16:56:17.399820849;
+(queue size = 10)
+Thread 94 performed at 16:56:17.499402261;
+(queue size = 9)
+Thread 95 performed at 16:56:17.500774754;
+(queue size = 8)
+Thread 52 performed at 16:56:17.501631463;
+(queue size = 7)
+Thread 80 performed at 16:56:17.502370063;
+(queue size = 6)
+Thread 39 performed at 16:56:17.439206415;
+(queue size = 5)
+Thread 4 performed at 16:56:17.503350954;
+(queue size = 4)
+Thread 18 performed at 16:56:17.471748293;
+(queue size = 3)
+Thread 96 performed at 16:56:17.444268696;
+(queue size = 2)
+Thread 12 performed at 16:56:17.480938384;
+(queue size = 1)
+Thread 15 performed at 16:56:17.447926862;
+(queue size = 10)
+Thread 73 performed at 16:56:17.341804782;
+(queue size = 9)
+Thread 59 performed at 16:56:17.402754446;
+(queue size = 8)
+Thread 37 performed at 16:56:17.511930536;
+(queue size = 7)
+Thread 55 performed at 16:56:17.470816265;
+(queue size = 6)
+Thread 28 performed at 16:56:17.373459098;
+(queue size = 5)
+Thread 34 performed at 16:56:17.350855753;
+(queue size = 4)
+Thread 72 performed at 16:56:17.514014196;
+(queue size = 3)
+Thread 11 performed at 16:56:17.515083807;
+(queue size = 2)
+Thread 49 performed at 16:56:17.516173104;
+(queue size = 1)
+Thread 19 performed at 16:56:17.520402619;
+(queue size = 10)
+Thread 43 performed at 16:56:17.521687648;
+(queue size = 9)
+Thread 64 performed at 16:56:17.449702196;
+(queue size = 8)
+Thread 44 performed at 16:56:17.522862734;
+(queue size = 7)
+Thread 51 performed at 16:56:17.494831054;
+(queue size = 6)
+Thread 40 performed at 16:56:17.482120660;
+(queue size = 5)
+Thread 58 performed at 16:56:17.298634006;
+(queue size = 4)
+Thread 81 performed at 16:56:17.524708570;
+(queue size = 10)
+Thread 76 performed at 16:56:17.525552505;
+(queue size = 9)
+Thread 24 performed at 16:56:17.526287056;
+(queue size = 8)
+Thread 74 performed at 16:56:17.469942873;
+(queue size = 7)
+Thread 41 performed at 16:56:17.532896759;
+(queue size = 6)
+Thread 36 performed at 16:56:17.353295275;
+(queue size = 5)
+Thread 23 performed at 16:56:17.534177948;
+(queue size = 4)
+Thread 16 performed at 16:56:17.437776193;
+(queue size = 3)
+Thread 1 performed at 16:56:17.445568592;
+(queue size = 2)
+Thread 63 performed at 16:56:17.543577452;
+(queue size = 1)
+Thread 59 performed at 16:56:17.552431366;
+(queue size = 10)
+Thread 93 performed at 16:56:17.553768677;
+(queue size = 9)
+Thread 44 performed at 16:56:17.554539457;
+(queue size = 8)
+Thread 54 performed at 16:56:17.518465060;
+(queue size = 7)
+Thread 78 performed at 16:56:17.483379163;
+(queue size = 6)
+Thread 71 performed at 16:56:17.556185025;
+(queue size = 5)
+Thread 60 performed at 16:56:17.556983935;
+(queue size = 4)
+Thread 70 performed at 16:56:17.273035845;
+(queue size = 3)
+Thread 0 performed at 16:56:17.507425014;
+(queue size = 2)
+Thread 75 performed at 16:56:17.354465824;
+(queue size = 1)
+Thread 30 performed at 16:56:17.574625169;
+(queue size = 10)
+Thread 94 performed at 16:56:17.575744481;
+(queue size = 9)
+Thread 38 performed at 16:56:17.129869088;
+(queue size = 8)
+Thread 32 performed at 16:56:17.546066885;
+(queue size = 7)
+Thread 89 performed at 16:56:17.505604028;
+(queue size = 6)
+Thread 86 performed at 16:56:17.577718618;
+(queue size = 5)
+Thread 66 performed at 16:56:17.578821178;
+(queue size = 4)
+Thread 55 performed at 16:56:17.579664414;
+(queue size = 3)
+Thread 67 performed at 16:56:17.580456833;
+(queue size = 2)
+Thread 85 performed at 16:56:17.544725734;
+(queue size = 1)
+Thread 14 performed at 16:56:17.416374181;
+(queue size = 10)
+Thread 73 performed at 16:56:17.593405679;
+(queue size = 9)
+Thread 49 performed at 16:56:17.565339865;
+(queue size = 8)
+Thread 62 performed at 16:56:17.594794436;
+(queue size = 7)
+Thread 96 performed at 16:56:17.596297114;
+(queue size = 6)
+Thread 90 performed at 16:56:17.252581497;
+(queue size = 5)
+Thread 56 performed at 16:56:17.459816147;
+(queue size = 4)
+Thread 18 performed at 16:56:17.597922997;
+(queue size = 3)
+Thread 19 performed at 16:56:17.598641982;
+(queue size = 2)
+Thread 71 performed at 16:56:17.599466860;
+(queue size = 1)
+Thread 28 performed at 16:56:17.571440694;
+(queue size = 10)
+Thread 37 performed at 16:56:17.605035152;
+(queue size = 9)
+Thread 52 performed at 16:56:17.563334805;
+(queue size = 8)
+Thread 50 performed at 16:56:17.517840172;
+(queue size = 7)
+Thread 38 performed at 16:56:17.606567916;
+(queue size = 6)
+Thread 70 performed at 16:56:17.607368223;
+(queue size = 5)
+Thread 39 performed at 16:56:17.583110655;
+(queue size = 4)
+Thread 6 performed at 16:56:17.449096224;
+(queue size = 3)
+Thread 36 performed at 16:56:17.567746369;
+(queue size = 2)
+Thread 1 performed at 16:56:17.609498093;
+(queue size = 1)
+Thread 92 performed at 16:56:17.548331198;
+(queue size = 10)
+Thread 48 performed at 16:56:17.251728138;
+(queue size = 9)
+Thread 12 performed at 16:56:17.572937998;
+(queue size = 8)
+Thread 7 performed at 16:56:17.430102113;
+(queue size = 7)
+Thread 91 performed at 16:56:16.991925266;
+(queue size = 6)
+Thread 59 performed at 16:56:17.617848647;
+(queue size = 5)
+Thread 17 performed at 16:56:17.506285109;
+(queue size = 4)
+Thread 13 performed at 16:56:17.468722274;
+(queue size = 3)
+Thread 94 performed at 16:56:17.619189728;
+(queue size = 2)
+Thread 8 performed at 16:56:17.570854129;
+(queue size = 1)
+Thread 96 performed at 16:56:17.625546810;
+(queue size = 10)
+Thread 45 performed at 16:56:17.472438239;
+(queue size = 9)
+Thread 3 performed at 16:56:17.506878586;
+(queue size = 8)
+Thread 23 performed at 16:56:17.627825713;
+(queue size = 7)
+Thread 81 performed at 16:56:17.568750295;
+(queue size = 6)
+Thread 82 performed at 16:56:17.527901142;
+(queue size = 5)
+Thread 51 performed at 16:56:17.629641533;
+(queue size = 4)
+Thread 34 performed at 16:56:17.547004776;
+(queue size = 3)
+Thread 16 performed at 16:56:17.630775295;
+(queue size = 2)
+Thread 72 performed at 16:56:17.588079398;
+(queue size = 1)
+Thread 50 performed at 16:56:17.645284477;
+(queue size = 10)
+Thread 52 performed at 16:56:17.646481063;
+(queue size = 9)
+Thread 75 performed at 16:56:17.583839063;
+(queue size = 8)
+Thread 91 performed at 16:56:17.647999029;
+(queue size = 7)
+Thread 69 performed at 16:56:17.504871781;
+(queue size = 6)
+Thread 12 performed at 16:56:17.649335503;
+(queue size = 5)
+Thread 42 performed at 16:56:17.549590189;
+(queue size = 4)
+Thread 30 performed at 16:56:17.650590306;
+(queue size = 3)
+Thread 25 performed at 16:56:17.560116405;
+(queue size = 2)
+Thread 79 performed at 16:56:17.560928370;
+(queue size = 1)
+Thread 56 performed at 16:56:17.656649742;
+(queue size = 10)
+Thread 55 performed at 16:56:17.658071796;
+(queue size = 9)
+Thread 41 performed at 16:56:17.634993711;
+(queue size = 8)
+Thread 26 performed at 16:56:17.456776098;
+(queue size = 7)
+Thread 95 performed at 16:56:17.561849019;
+(queue size = 6)
+Thread 65 performed at 16:56:17.446389561;
+(queue size = 5)
+Thread 20 performed at 16:56:17.566088795;
+(queue size = 4)
+Thread 87 performed at 16:56:17.496468175;
+(queue size = 3)
+Thread 54 performed at 16:56:17.661218087;
+(queue size = 2)
+Thread 91 performed at 16:56:17.663139661;
+(queue size = 1)
+Thread 79 performed at 16:56:17.675475764;
+(queue size = 10)
+Thread 10 performed at 16:56:17.590577486;
+(queue size = 9)
+Thread 64 performed at 16:56:17.585166742;
+(queue size = 8)
+Thread 9 performed at 16:56:17.572153118;
+(queue size = 7)
+Thread 94 performed at 16:56:17.677520403;
+(queue size = 6)
+Thread 76 performed at 16:56:17.623035808;
+(queue size = 5)
+Thread 14 performed at 16:56:17.679499566;
+(queue size = 4)
+Thread 39 performed at 16:56:17.680315718;
+(queue size = 3)
+Thread 71 performed at 16:56:17.681235251;
+(queue size = 2)
+Thread 22 performed at 16:56:17.564369654;
+(queue size = 1)
+Thread 1 performed at 16:56:17.686214046;
+(queue size = 10)
+Thread 33 performed at 16:56:17.566895734;
+(queue size = 9)
+Thread 81 performed at 16:56:17.687851167;
+(queue size = 8)
+Thread 34 performed at 16:56:17.688642958;
+(queue size = 7)
+Thread 62 performed at 16:56:17.620636703;
+(queue size = 6)
+Thread 15 performed at 16:56:17.610458182;
+(queue size = 5)
+Thread 98 performed at 16:56:17.586348948;
+(queue size = 4)
+Thread 12 performed at 16:56:17.690574444;
+(queue size = 3)
+Thread 21 performed at 16:56:17.482752599;
+(queue size = 2)
+Thread 19 performed at 16:56:17.691665486;
+(queue size = 1)
+Thread 13 performed at 16:56:17.695505772;
+(queue size = 10)
+Thread 83 performed at 16:56:17.588992369;
+(queue size = 9)
+Thread 80 performed at 16:56:17.611553273;
+(queue size = 8)
+Thread 28 performed at 16:56:17.697862017;
+(queue size = 7)
+Thread 70 performed at 16:56:17.698719285;
+(queue size = 6)
+Thread 51 performed at 16:56:17.699440015;
+(queue size = 5)
+Thread 38 performed at 16:56:17.652581893;
+(queue size = 4)
+Thread 46 performed at 16:56:17.442043891;
+(queue size = 3)
+Thread 52 performed at 16:56:17.667677851;
+(queue size = 2)
+Thread 22 performed at 16:56:17.701608068;
+(queue size = 1)
+Thread 18 performed at 16:56:17.703987070;
+(queue size = 10)
+Thread 93 performed at 16:56:17.631999524;
+(queue size = 9)
+Thread 40 performed at 16:56:17.601808726;
+(queue size = 8)
+Thread 31 performed at 16:56:17.527154235;
+(queue size = 7)
+Thread 94 performed at 16:56:17.705969653;
+(queue size = 6)
+Thread 9 performed at 16:56:17.706828595;
+(queue size = 5)
+Thread 41 performed at 16:56:17.707651798;
+(queue size = 4)
+Thread 43 performed at 16:56:17.587104999;
+(queue size = 3)
+Thread 45 performed at 16:56:17.708985759;
+(queue size = 2)
+Thread 36 performed at 16:56:17.709766450;
+(queue size = 1)
+Thread 67 performed at 16:56:17.623702300;
+(queue size = 10)
+Thread 29 performed at 16:56:17.484175700;
+(queue size = 9)
+Thread 78 performed at 16:56:17.638285405;
+(queue size = 8)
+Thread 49 performed at 16:56:17.668981307;
+(queue size = 7)
+Thread 97 performed at 16:56:17.442876936;
+(queue size = 6)
+Thread 68 performed at 16:56:17.584501855;
+(queue size = 5)
+Thread 91 performed at 16:56:17.718857140;
+(queue size = 4)
+Thread 42 performed at 16:56:17.719770949;
+(queue size = 10)
+Thread 95 performed at 16:56:17.721047461;
+(queue size = 9)
+Thread 32 performed at 16:56:17.621812487;
+(queue size = 8)
+Thread 99 performed at 16:56:17.440756490;
+(queue size = 7)
+Thread 3 performed at 16:56:17.730363409;
+(queue size = 6)
+Thread 1 performed at 16:56:17.731302627;
+(queue size = 5)
+Thread 8 performed at 16:56:17.731976169;
+(queue size = 4)
+Thread 96 performed at 16:56:17.732722028;
+(queue size = 3)
+Thread 66 performed at 16:56:17.636728908;
+(queue size = 2)
+Thread 89 performed at 16:56:17.664680173;
+(queue size = 1)
+Thread 33 performed at 16:56:17.746252204;
+(queue size = 10)
+Thread 37 performed at 16:56:17.684104070;
+(queue size = 9)
+Thread 31 performed at 16:56:17.747982654;
+(queue size = 8)
+Thread 2 performed at 16:56:17.528796452;
+(queue size = 7)
+Thread 85 performed at 16:56:17.669600612;
+(queue size = 6)
+Thread 30 performed at 16:56:17.749545364;
+(queue size = 5)
+Thread 40 performed at 16:56:17.750435439;
+(queue size = 4)
+Thread 86 performed at 16:56:17.600713705;
+(queue size = 3)
+Thread 10 performed at 16:56:17.751508053;
+(queue size = 2)
+Thread 46 performed at 16:56:17.752341796;
+(queue size = 1)
+Thread 77 performed at 16:56:17.412679786;
+(queue size = 10)
+Thread 59 performed at 16:56:17.670656542;
+(queue size = 9)
+Thread 19 performed at 16:56:17.761668215;
+(queue size = 8)
+Thread 64 performed at 16:56:17.763260382;
+(queue size = 7)
+Thread 14 performed at 16:56:17.765005142;
+(queue size = 6)
+Thread 54 performed at 16:56:17.765835813;
+(queue size = 5)
+Thread 24 performed at 16:56:17.635940398;
+(queue size = 4)
+Thread 79 performed at 16:56:17.742979288;
+(queue size = 3)
+Thread 87 performed at 16:56:17.767464349;
+(queue size = 2)
+Thread 15 performed at 16:56:17.769013168;
+(queue size = 1)
+Thread 84 performed at 16:56:17.447047257;
+(queue size = 10)
+Thread 35 performed at 16:56:17.493965969;
+(queue size = 9)
+Thread 21 performed at 16:56:17.773975349;
+(queue size = 8)
+Thread 72 performed at 16:56:17.654062793;
+(queue size = 7)
+Thread 39 performed at 16:56:17.710839134;
+(queue size = 6)
+Thread 90 performed at 16:56:17.633754754;
+(queue size = 5)
+Thread 78 performed at 16:56:17.775502947;
+(queue size = 4)
+Thread 30 performed at 16:56:17.776470156;
+(queue size = 3)
+Thread 99 performed at 16:56:17.777397716;
+(queue size = 2)
+Thread 31 performed at 16:56:17.778808532;
+(queue size = 1)
+Thread 25 performed at 16:56:17.726024930;
+(queue size = 10)
+Thread 17 performed at 16:56:17.672982981;
+(queue size = 9)
+Thread 76 performed at 16:56:17.787459385;
+(queue size = 8)
+Thread 83 performed at 16:56:17.788454795;
+(queue size = 7)
+Thread 59 performed at 16:56:17.789360576;
+(queue size = 6)
+Thread 27 performed at 16:56:17.485317001;
+(queue size = 5)
+Thread 6 performed at 16:56:17.673599702;
+(queue size = 4)
+Thread 38 performed at 16:56:17.790766645;
+(queue size = 3)
+Thread 89 performed at 16:56:17.799517178;
+(queue size = 2)
+Thread 36 performed at 16:56:17.800597400;
+(queue size = 1)
+Thread 51 performed at 16:56:17.807146025;
+(queue size = 10)
+Thread 50 performed at 16:56:17.666539691;
+(queue size = 9)
+Thread 62 performed at 16:56:17.808783914;
+(queue size = 8)
+Thread 96 performed at 16:56:17.809848989;
+(queue size = 7)
+Thread 63 performed at 16:56:17.642226419;
+(queue size = 6)
+Thread 65 performed at 16:56:17.738644717;
+(queue size = 5)
+Thread 2 performed at 16:56:17.780315049;
+(queue size = 4)
+Thread 64 performed at 16:56:17.811975927;
+(queue size = 3)
+Thread 71 performed at 16:56:17.757745350;
+(queue size = 2)
+Thread 53 performed at 16:56:17.516976832;
+(queue size = 1)
+Thread 16 performed at 16:56:17.713666419;
+(queue size = 10)
+Thread 30 performed at 16:56:17.825375569;
+(queue size = 9)
+Thread 55 performed at 16:56:17.736843835;
+(queue size = 8)
+Thread 49 performed at 16:56:17.826937721;
+(queue size = 7)
+Thread 23 performed at 16:56:17.740041572;
+(queue size = 6)
+Thread 26 performed at 16:56:17.735305557;
+(queue size = 5)
+Thread 46 performed at 16:56:17.829258855;
+(queue size = 4)
+Thread 5 performed at 16:56:17.428316378;
+(queue size = 3)
+Thread 74 performed at 16:56:17.602445760;
+(queue size = 2)
+Thread 72 performed at 16:56:17.831321224;
+(queue size = 1)
+Thread 13 performed at 16:56:17.741725462;
+(queue size = 10)
+Thread 58 performed at 16:56:17.614046963;
+(queue size = 9)
+Thread 82 performed at 16:56:17.668314327;
+(queue size = 8)
+Thread 44 performed at 16:56:17.639731193;
+(queue size = 7)
+Thread 73 performed at 16:56:17.642969556;
+(queue size = 6)
+Thread 98 performed at 16:56:17.753488262;
+(queue size = 5)
+Thread 90 performed at 16:56:17.851507454;
+(queue size = 4)
+Thread 84 performed at 16:56:17.853013343;
+(queue size = 3)
+Thread 15 performed at 16:56:17.854431139;
+(queue size = 2)
+Thread 36 performed at 16:56:17.855336501;
+(queue size = 1)
+Thread 63 performed at 16:56:17.865783490;
+(queue size = 10)
+Thread 71 performed at 16:56:17.866820433;
+(queue size = 9)
+Thread 74 performed at 16:56:17.867573692;
+(queue size = 8)
+Thread 70 performed at 16:56:17.737876311;
+(queue size = 7)
+Thread 97 performed at 16:56:17.803251850;
+(queue size = 6)
+Thread 25 performed at 16:56:17.869162508;
+(queue size = 5)
+Thread 46 performed at 16:56:17.870224582;
+(queue size = 4)
+Thread 60 performed at 16:56:17.653295364;
+(queue size = 3)
+Thread 24 performed at 16:56:17.871437921;
+(queue size = 2)
+Thread 92 performed at 16:56:17.692785496;
+(queue size = 1)
+Thread 67 performed at 16:56:17.770072379;
+(queue size = 10)
+Thread 93 performed at 16:56:17.755553633;
+(queue size = 9)
+Thread 40 performed at 16:56:17.804345963;
+(queue size = 8)
+Thread 53 performed at 16:56:17.879538855;
+(queue size = 7)
+Thread 9 performed at 16:56:17.771012155;
+(queue size = 6)
+Thread 29 performed at 16:56:17.782559050;
+(queue size = 5)
+Thread 5 performed at 16:56:17.881018497;
+(queue size = 4)
+Thread 10 performed at 16:56:17.821909504;
+(queue size = 3)
+Thread 44 performed at 16:56:17.882438527;
+(queue size = 2)
+Thread 0 performed at 16:56:17.637340394;
+(queue size = 1)
+Thread 52 performed at 16:56:17.740999009;
+(queue size = 10)
+Thread 61 performed at 16:56:17.310735706;
+(queue size = 9)
+Thread 68 performed at 16:56:17.837797741;
+(queue size = 8)
+Thread 83 performed at 16:56:17.873339531;
+(queue size = 7)
+Thread 40 performed at 16:56:17.899890730;
+(queue size = 6)
+Thread 19 performed at 16:56:17.842464092;
+(queue size = 5)
+Thread 2 performed at 16:56:17.900965996;
+(queue size = 4)
+Thread 8 performed at 16:56:17.802011496;
+(queue size = 3)
+Thread 22 performed at 16:56:17.723869022;
+(queue size = 2)
+Thread 60 performed at 16:56:17.902387143;
+(queue size = 1)
+Thread 80 performed at 16:56:17.725338264;
+(queue size = 10)
+Thread 96 performed at 16:56:17.906756476;
+(queue size = 9)
+Thread 11 performed at 16:56:17.570034067;
+(queue size = 8)
+Thread 66 performed at 16:56:17.822681680;
+(queue size = 7)
+Thread 65 performed at 16:56:17.908508984;
+(queue size = 6)
+Thread 5 performed at 16:56:17.909371626;
+(queue size = 5)
+Thread 59 performed at 16:56:17.862175024;
+(queue size = 4)
+Thread 55 performed at 16:56:17.887363503;
+(queue size = 3)
+Thread 78 performed at 16:56:17.817444399;
+(queue size = 2)
+Thread 14 performed at 16:56:17.837145559;
+(queue size = 1)
+Thread 94 performed at 16:56:17.784873622;
+(queue size = 10)
+Thread 63 performed at 16:56:17.915660160;
+(queue size = 9)
+Thread 90 performed at 16:56:17.916732704;
+(queue size = 8)
+Thread 12 performed at 16:56:17.756450131;
+(queue size = 7)
+Thread 32 performed at 16:56:17.845490948;
+(queue size = 6)
+Thread 98 performed at 16:56:17.890943070;
+(queue size = 5)
+Thread 77 performed at 16:56:17.839093938;
+(queue size = 4)
+Thread 7 performed at 16:56:17.665501840;
+(queue size = 3)
+Thread 99 performed at 16:56:17.815769444;
+(queue size = 2)
+Thread 48 performed at 16:56:17.724485953;
+(queue size = 1)
+Thread 4 performed at 16:56:17.613216152;
+(queue size = 10)
+Thread 54 performed at 16:56:17.836046699;
+(queue size = 9)
+Thread 15 performed at 16:56:17.924481893;
+(queue size = 8)
+Thread 39 performed at 16:56:17.856777193;
+(queue size = 7)
+Thread 97 performed at 16:56:17.925719315;
+(queue size = 6)
+Thread 25 performed at 16:56:17.926534700;
+(queue size = 5)
+Thread 84 performed at 16:56:17.927292496;
+(queue size = 4)
+Thread 80 performed at 16:56:17.928182850;
+(queue size = 10)
+Thread 36 performed at 16:56:17.929304606;
+(queue size = 9)
+Thread 92 performed at 16:56:17.930054444;
+(queue size = 8)
+Thread 89 performed at 16:56:17.896135466;
+(queue size = 7)
+Thread 43 performed at 16:56:17.819180992;
+(queue size = 6)
+Thread 51 performed at 16:56:17.876211142;
+(queue size = 5)
+Thread 45 performed at 16:56:17.820926938;
+(queue size = 4)
+Thread 46 performed at 16:56:17.933656348;
+(queue size = 3)
+Thread 79 performed at 16:56:17.860439059;
+(queue size = 2)
+Thread 73 performed at 16:56:17.935274413;
+(queue size = 1)
+Thread 3 performed at 16:56:17.832333945;
+(queue size = 10)
+Thread 28 performed at 16:56:17.726803876;
+(queue size = 9)
+Thread 69 performed at 16:56:17.712125419;
+(queue size = 8)
+Thread 37 performed at 16:56:17.779534427;
+(queue size = 7)
+Thread 56 performed at 16:56:17.714516636;
+(queue size = 6)
+Thread 1 performed at 16:56:17.781540814;
+(queue size = 5)
+Thread 33 performed at 16:56:17.840254156;
+(queue size = 4)
+Thread 71 performed at 16:56:17.941445606;
+(queue size = 3)
+Thread 75 performed at 16:56:17.722449970;
+(queue size = 2)
+Thread 58 performed at 16:56:17.893562757;
+(queue size = 1)
+Thread 39 performed at 16:56:17.943928477;
+(queue size = 10)
+Thread 81 performed at 16:56:17.805220751;
+(queue size = 9)
+Thread 52 performed at 16:56:17.946021769;
+(queue size = 8)
+Thread 8 performed at 16:56:17.946892788;
+(queue size = 7)
+Thread 32 performed at 16:56:17.948120437;
+(queue size = 6)
+Thread 42 performed at 16:56:17.802608184;
+(queue size = 5)
+Thread 74 performed at 16:56:17.949824780;
+(queue size = 4)
+Thread 82 performed at 16:56:17.950644771;
+(queue size = 3)
+Thread 76 performed at 16:56:17.833582745;
+(queue size = 2)
+Thread 49 performed at 16:56:17.859534884;
+(queue size = 1)
+Thread 91 performed at 16:56:17.846735070;
+(queue size = 10)
+Thread 86 performed at 16:56:17.858641877;
+(queue size = 9)
+Thread 70 performed at 16:56:17.903555528;
+(queue size = 8)
+Thread 65 performed at 16:56:17.936365525;
+(queue size = 7)
+Thread 61 performed at 16:56:17.955068273;
+(queue size = 6)
+Thread 90 performed at 16:56:17.956027664;
+(queue size = 5)
+Thread 44 performed at 16:56:17.957008903;
+(queue size = 4)
+Thread 26 performed at 16:56:17.875252938;
+(queue size = 3)
+Thread 67 performed at 16:56:17.888964605;
+(queue size = 2)
+Thread 64 performed at 16:56:17.883537736;
+(queue size = 1)
+Thread 48 performed at 16:56:17.960872504;
+(queue size = 10)
+Thread 31 performed at 16:56:17.874111287;
+(queue size = 9)
+Thread 93 performed at 16:56:17.962586899;
+(queue size = 8)
+Thread 47 performed at 16:56:17.458391720;
+(queue size = 7)
+Thread 9 performed at 16:56:17.963674660;
+(queue size = 6)
+Thread 11 performed at 16:56:17.964434131;
+(queue size = 5)
+Thread 20 performed at 16:56:17.754733921;
+(queue size = 4)
+Thread 79 performed at 16:56:17.965656894;
+(queue size = 3)
+Thread 87 performed at 16:56:17.834609078;
+(queue size = 2)
+Thread 35 performed at 16:56:17.841511262;
+(queue size = 1)
+Thread 62 performed at 16:56:17.863542910;
+(queue size = 10)
+Thread 17 performed at 16:56:17.819786126;
+(queue size = 9)
+Thread 10 performed at 16:56:17.973945881;
+(queue size = 8)
+Thread 30 performed at 16:56:17.920096086;
+(queue size = 7)
+Thread 61 performed at 16:56:17.975216878;
+(queue size = 6)
+Thread 0 performed at 16:56:17.976302824;
+(queue size = 5)
+Thread 38 performed at 16:56:17.884987991;
+(queue size = 4)
+Thread 80 performed at 16:56:17.977567888;
+(queue size = 3)
+Thread 77 performed at 16:56:17.979177437;
+(queue size = 2)
+Thread 36 performed at 16:56:17.980445503;
+(queue size = 1)
+Thread 93 performed at 16:56:17.985561463;
+(queue size = 10)
+Thread 81 performed at 16:56:17.986497819;
+(queue size = 9)
+Thread 29 performed at 16:56:17.987358227;
+(queue size = 8)
+Thread 39 performed at 16:56:17.988391680;
+(queue size = 7)
+Thread 22 performed at 16:56:17.989048749;
+(queue size = 6)
+Thread 91 performed at 16:56:17.990249314;
+(queue size = 5)
+Thread 61 performed at 16:56:17.991399619;
+(queue size = 4)
+Thread 19 performed at 16:56:17.992135357;
+(queue size = 3)
+Thread 88 performed at 16:56:17.202703151;
+(queue size = 2)
+Thread 63 performed at 16:56:17.993109826;
+(queue size = 1)
+Thread 83 performed at 16:56:17.937021755;
+(queue size = 10)
+Thread 92 performed at 16:56:18.006776773;
+(queue size = 9)
+Thread 13 performed at 16:56:17.920997261;
+(queue size = 8)
+Thread 18 performed at 16:56:17.814131764;
+(queue size = 7)
+Thread 68 performed at 16:56:18.008662126;
+(queue size = 6)
+Thread 94 performed at 16:56:18.009763712;
+(queue size = 5)
+Thread 98 performed at 16:56:18.011368241;
+(queue size = 4)
+Thread 95 performed at 16:56:17.783265470;
+(queue size = 3)
+Thread 28 performed at 16:56:18.013893982;
+(queue size = 2)
+Thread 41 performed at 16:56:17.815111259;
+(queue size = 1)
+Thread 7 performed at 16:56:17.967230354;
+(queue size = 10)
+Thread 27 performed at 16:56:17.888198572;
+(queue size = 9)
+Thread 21 performed at 16:56:17.857480263;
+(queue size = 8)
+Thread 9 performed at 16:56:17.995796944;
+(queue size = 7)
+Thread 8 performed at 16:56:17.969121423;
+(queue size = 6)
+Thread 96 performed at 16:56:17.997118969;
+(queue size = 5)
+Thread 53 performed at 16:56:17.983551796;
+(queue size = 4)
+Thread 10 performed at 16:56:18.001592105;
+(queue size = 3)
+Thread 15 performed at 16:56:18.002769499;
+(queue size = 2)
+Thread 55 performed at 16:56:17.970899410;
+(queue size = 1)
+Thread 85 performed at 16:56:17.783992063;
+(queue size = 5)
+Thread 60 performed at 16:56:18.021947969;
+(queue size = 4)
+Thread 75 performed at 16:56:17.999614614;
+(queue size = 3)
+Thread 50 performed at 16:56:17.892203178;
+(queue size = 2)
+Thread 73 performed at 16:56:18.003756676;
+(queue size = 1)
+Thread 40 performed at 16:56:17.998795739;
+(queue size = 1)
+Thread 23 performed at 16:56:17.894447457;
+(queue size = 1)
+Thread 37 performed at 16:56:18.000595225;
+(queue size = 1)
+Thread 6 performed at 16:56:17.818413074;
+(queue size = 1)
+Thread 67 performed at 16:56:18.058411458;
+(queue size = 1)
+Thread 82 performed at 16:56:18.062364424;
+(queue size = 1)
+Thread 77 performed at 16:56:18.063591031;
+(queue size = 1)
+Thread 48 performed at 16:56:18.018816883;
+(queue size = 2)
+Thread 86 performed at 16:56:18.024304503;
+(queue size = 1)
+Thread 2 performed at 16:56:18.019501247;
+(queue size = 1)
+Thread 19 performed at 16:56:18.018030953;
+(queue size = 1)
+Thread 51 performed at 16:56:18.020125510;
+(queue size = 1)
+Thread 14 performed at 16:56:18.015410138;
+(queue size = 3)
+Thread 35 performed at 16:56:18.059470255;
+(queue size = 2)
+Thread 47 performed at 16:56:18.022674705;
+(queue size = 1)
+Thread 58 performed at 16:56:17.967904594;
+(queue size = 1)
+Thread 66 performed at 16:56:18.021151428;
+(queue size = 1)
+Thread 72 performed at 16:56:17.912799717;
+(queue size = 1)
+Thread 20 performed at 16:56:18.023584608;
+(queue size = 1)
+Thread 24 performed at 16:56:17.982427109;
+(queue size = 1)
+Thread 12 performed at 16:56:17.981323502;
+(queue size = 1)
+Thread 89 performed at 16:56:17.993970653;
+(queue size = 1)
+Thread 34 performed at 16:56:17.843762383;
+(queue size = 1)
+Thread 57 performed at 16:56:17.559248458;
+(queue size = 1)
+Thread 90 performed at 16:56:18.057227293;
+(queue size = 1)
+Thread 16 performed at 16:56:17.886529760;
+(queue size = 1)
+Thread 46 performed at 16:56:17.968522851;
+(queue size = 1)
+Thread 70 performed at 16:56:18.060420924;
+(queue size = 1)
+Thread 3 performed at 16:56:18.016613500;
+(queue size = 1)
+Thread 45 performed at 16:56:17.970065527;
+(queue size = 1)

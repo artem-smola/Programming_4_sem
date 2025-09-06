@@ -1,0 +1,4 @@
+/home/artem/programming_4_sem/task_4/build/CMakeFiles/main.dir
+/home/artem/programming_4_sem/task_4/build/CMakeFiles/helgrind.dir
+/home/artem/programming_4_sem/task_4/build/CMakeFiles/edit_cache.dir
+/home/artem/programming_4_sem/task_4/build/CMakeFiles/rebuild_cache.dir
